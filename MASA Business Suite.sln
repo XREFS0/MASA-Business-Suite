@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37206.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASA Business Suite", "MASA Business Suite\MASA Business Suite.csproj", "{C56C6839-2F2F-40A5-8342-C9B3055A9047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56C6839-2F2F-40A5-8342-C9B3055A9047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56C6839-2F2F-40A5-8342-C9B3055A9047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56C6839-2F2F-40A5-8342-C9B3055A9047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56C6839-2F2F-40A5-8342-C9B3055A9047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C854CD2B-F94A-486D-A3A5-1004E1725744}
+	EndGlobalSection
+EndGlobal

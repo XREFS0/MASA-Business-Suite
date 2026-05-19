@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\bin\Debug\MASA Business Suite.exe.config
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\bin\Debug\MASA Business Suite.exe
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\bin\Debug\MASA Business Suite.pdb
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\obj\Debug\MASA Business Suite.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\obj\Debug\MASA_Business_Suite.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\obj\Debug\MASA Business Suite.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\obj\Debug\MASA Business Suite.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\obj\Debug\MASA Business Suite.exe
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\obj\Debug\MASA Business Suite.pdb
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\bin\Debug\Icons\logo.ico
+C:\Users\Administrator\source\repos\MASA Business Suite\MASA Business Suite\obj\Debug\MASA Bus.5BE4D67C.Up2Date
